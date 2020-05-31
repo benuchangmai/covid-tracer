@@ -1,0 +1,42 @@
+Infectors (People notified who would go on to infect others later):  55
+Useful avoids:  0
+Total #Infectors:  56
+Total infected:  311.0
+Notified in time:  210.0
+Recall:  0.6752411575562701
+
+File 2:
+
+1 hop->
+Infectors (People notified who would go on to infect others later):  95
+Useful avoids:  47
+Total #Infectors:  104
+Total infected:  416.0
+Notified in time:  299.0
+Recall:  0.71875
+
+2 hops->
+Infectors (People notified who would go on to infect others later):  98
+Useful avoids:  74
+Total #Infectors:  104
+Total infected:  416.0
+Notified in time:  354.0
+Recall:  0.8509615384615384
+
+File 3:
+
+1 hope->
+Infectors (People notified who would go on to infect others later):  73
+Useful avoids:  33
+Total #Infectors:  81
+Total infected:  313.0
+Notified in time:  242.0
+Recall:  0.7731629392971247
+
+2 hops->
+Infectors (People notified who would go on to infect others later):  74
+Useful avoids:  47
+Total #Infectors:  81
+Total infected:  313.0
+Notified in time:  278.0
+Recall:  0.8881789137380192
